@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "IflEJujLCoBqzQmsEYbJMeD7dVSmRh+qiVik0uvOEYExjfzYyNlRWpbeL7wumtPrQge/vPlC7jEiFjrawDl0PA==",
+  "success": true,
+  "projectFilePath": "/home/scrviy/dev/dotnet/testCodeRunner/testCodeRunner.csproj",
+  "expectedPackageFiles": [
+    "/home/scrviy/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.2/microsoft.aspnetcore.app.ref.7.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

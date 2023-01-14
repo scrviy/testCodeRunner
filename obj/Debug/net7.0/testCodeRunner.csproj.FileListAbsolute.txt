@@ -1,0 +1,15 @@
+/home/scrviy/dev/dotnet/testCodeRunner/bin/Debug/net7.0/testCodeRunner
+/home/scrviy/dev/dotnet/testCodeRunner/bin/Debug/net7.0/testCodeRunner.deps.json
+/home/scrviy/dev/dotnet/testCodeRunner/bin/Debug/net7.0/testCodeRunner.runtimeconfig.json
+/home/scrviy/dev/dotnet/testCodeRunner/bin/Debug/net7.0/testCodeRunner.dll
+/home/scrviy/dev/dotnet/testCodeRunner/bin/Debug/net7.0/testCodeRunner.pdb
+/home/scrviy/dev/dotnet/testCodeRunner/obj/Debug/net7.0/testCodeRunner.csproj.AssemblyReference.cache
+/home/scrviy/dev/dotnet/testCodeRunner/obj/Debug/net7.0/testCodeRunner.GeneratedMSBuildEditorConfig.editorconfig
+/home/scrviy/dev/dotnet/testCodeRunner/obj/Debug/net7.0/testCodeRunner.AssemblyInfoInputs.cache
+/home/scrviy/dev/dotnet/testCodeRunner/obj/Debug/net7.0/testCodeRunner.AssemblyInfo.cs
+/home/scrviy/dev/dotnet/testCodeRunner/obj/Debug/net7.0/testCodeRunner.csproj.CoreCompileInputs.cache
+/home/scrviy/dev/dotnet/testCodeRunner/obj/Debug/net7.0/testCodeRunner.dll
+/home/scrviy/dev/dotnet/testCodeRunner/obj/Debug/net7.0/refint/testCodeRunner.dll
+/home/scrviy/dev/dotnet/testCodeRunner/obj/Debug/net7.0/testCodeRunner.pdb
+/home/scrviy/dev/dotnet/testCodeRunner/obj/Debug/net7.0/testCodeRunner.genruntimeconfig.cache
+/home/scrviy/dev/dotnet/testCodeRunner/obj/Debug/net7.0/ref/testCodeRunner.dll
